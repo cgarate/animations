@@ -1,2 +1,2 @@
-# simpleReactStarter
-A simple React/JS starter repository with Webpack and Babel.
+# Animations
+Experimenting with animations in React
